@@ -22,8 +22,7 @@
       		"id": 3,
       		"lang": "de",
       		"text": "<b> -20% auf der gesamten Website </ b> ab 49 € Kaufpreis - <b> Code: TESTTEST </ b>",
-      		"conditions": "Angebot gültig ab 49 € Einkäufe bis 01.03.2020. Kann nicht mit anderen aktuellen Werbeangeboten, Punkten, Sponsoring kombiniert werden. Die Aktion gilt als Ersatz für Ihren abonnierten Vorteil. Nicht gültig für Point Rouge-Marken, Abonnements, Geschenkkarten und limitierte Editionen. Nicht gültig bei La Fabrique online.
-",
+      		"conditions": "Angebot gültig ab 49 € Einkäufe bis 01.03.2020. Kann nicht mit anderen aktuellen Werbeangeboten, Punkten, Sponsoring kombiniert werden. Die Aktion gilt als Ersatz für Ihren abonnierten Vorteil. Nicht gültig für Point Rouge-Marken, Abonnements, Geschenkkarten und limitierte Editionen. Nicht gültig bei La Fabrique online.",
       		"target": "not_sub"
       	},
       	{
