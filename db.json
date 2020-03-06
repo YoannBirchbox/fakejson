@@ -40,11 +40,6 @@
 		"id": 1,
 		"lang": "fr",
 		"text": "<b>Livraison offerte</b> dès 25€ d'achats pour les Abonnées"
-	},
-	{
-		"id": 2,
-		"lang": "de",
-		"text": "<b>Kostenlose Lieferung</b> ab 25 € für Abonnenten"
 	}
 	]
 }
