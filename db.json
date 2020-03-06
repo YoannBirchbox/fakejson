@@ -21,18 +21,30 @@
       	{
       		"id": 3,
       		"lang": "de",
-      		"text": "<b> -20% auf der gesamten Website </ b> ab 49 € Kaufpreis - <b> Code: TESTTEST </ b>",
+      		"text": "<b> -20% auf der gesamten Website </b> ab 49 € Kaufpreis - <b> Code: TESTTEST </b>",
       		"conditions": "Angebot gültig ab 49 € Einkäufe bis 01.03.2020. Kann nicht mit anderen aktuellen Werbeangeboten, Punkten, Sponsoring kombiniert werden. Die Aktion gilt als Ersatz für Ihren abonnierten Vorteil. Nicht gültig für Point Rouge-Marken, Abonnements, Geschenkkarten und limitierte Editionen. Nicht gültig bei La Fabrique online.",
       		"target": "not_sub"
       	},
       	{
       		"id": 4,
       		"lang": "de",
-      		"text": "<b> -50% auf das 2. Produkt </ b> in Ihrem Warenkorb - <b> Code: GOGOGO </ b>",
+      		"text": "<b> -50% auf das 2. Produkt </b> in Ihrem Warenkorb - <b> Code: GOGOGO </b>",
       		"conditions": "Angebot für Abonnenten reserviert. Ohne Mindestbestellmenge. Gültig nur bis zum 10.03.2020 auf birchbox.fr für das günstigste Produkt von 2. Nicht kombinierbar mit anderen aktuellen Werbeangeboten, Punkten, Sponsoring. Die Aktion gilt als Ersatz für Ihren abonnierten Vorteil. Nicht gültig für Point Rouge-Marken, Abonnements, Geschenkkarten und limitierte Editionen. Nicht gültig bei La Fabrique online.",
       		"target": "sub"
       	}
       ]
     }
-  ]
+  ],
+	"header_push": [
+	{
+		"id": 1,
+		"lang": "fr",
+		"text": "<b>Livraison offerte</b> dès 25€ d'achats pour les Abonnées"
+	},
+	{
+		"id": 2,
+		"lang": "de",
+		"text": "<b>Kostenlose Lieferung</b> ab 25 € für Abonnenten"
+	}
+	]
 }
