@@ -1,45 +1,58 @@
 {
-  "promo": [
-    {
-      "backgroundColor": "#fedcd2",
-      "textColor": "#000",
-      "offers": [
-      	{
-      		"id": 1,
-      		"lang": "fr",
-      		"text": "<b>-20% sur tout le site</b> dès 49€ d'achat - <b>Code : TESTTEST</b>",
-      		"conditions": "Offre valable dès 49€ d'achats jusqu'au 01.03.2020. Non cumulable avec d'autres offres promotionnelles en cours, les points, le parrainage. La promotion s'appliquera en remplacement de votre Avantage Abonnée. Non valable sur les marques Point Rouge, les abonnements, les cartes cadeaux et les éditions limitées. Non valable sur La Fabrique en ligne.",
-      		"target": "not_sub"
-      	},
-      	{
-      		"id": 2,
-      		"lang": "fr",
-      		"text": "<b>-50% sur le 2ème produit</b> de votre panier - <b>Code : GOGOGO</b>",
-      		"conditions": "Offre réservée aux abonnées. Sans minimum d'achat. Valable uniquement jusqu'au 10/03/2020 sur birchbox.fr sur le produit le moins cher des 2. Non cumulable avec d'autres offres promotionnelles en cours, les points, le parrainage. La promotion s'appliquera en remplacement de votre Avantage Abonnée. Non valable sur les marques Point Rouge, les abonnements, les cartes cadeaux et les éditions limitées. Non valable sur La Fabrique en ligne.",
-      		"target": "sub"
-      	},
-      	{
-      		"id": 3,
-      		"lang": "de",
-      		"text": "<b> -20% auf der gesamten Website </b> ab 49 € Kaufpreis - <b> Code: TESTTEST </b>",
-      		"conditions": "Angebot gültig ab 49 € Einkäufe bis 01.03.2020. Kann nicht mit anderen aktuellen Werbeangeboten, Punkten, Sponsoring kombiniert werden. Die Aktion gilt als Ersatz für Ihren abonnierten Vorteil. Nicht gültig für Point Rouge-Marken, Abonnements, Geschenkkarten und limitierte Editionen. Nicht gültig bei La Fabrique online.",
-      		"target": "not_sub"
-      	},
-      	{
-      		"id": 4,
-      		"lang": "de",
-      		"text": "<b> -50% auf das 2. Produkt </b> in Ihrem Warenkorb - <b> Code: GOGOGO </b>",
-      		"conditions": "Angebot für Abonnenten reserviert. Ohne Mindestbestellmenge. Gültig nur bis zum 10.03.2020 auf birchbox.fr für das günstigste Produkt von 2. Nicht kombinierbar mit anderen aktuellen Werbeangeboten, Punkten, Sponsoring. Die Aktion gilt als Ersatz für Ihren abonnierten Vorteil. Nicht gültig für Point Rouge-Marken, Abonnements, Geschenkkarten und limitierte Editionen. Nicht gültig bei La Fabrique online.",
-      		"target": "sub"
-      	}
-      ]
-    }
-  ],
+	"promo": [
+		{
+			"backgroundColor": "#fedcd2",
+			"textColor": "#000",
+			"offers": [
+				{
+				"id": 1,
+				"lang": "fr",
+				"text": "<b>-20% sur tout le site</b> dès 49€ d'achat - <b>Code : TESTTEST</b>",
+				"conditions": "Offre valable dès 49€ d'achats jusqu'au 01.03.2020. Non cumulable avec d'autres offres promotionnelles en cours, les points, le parrainage. La promotion s'appliquera en remplacement de votre Avantage Abonnée. Non valable sur les marques Point Rouge, les abonnements, les cartes cadeaux et les éditions limitées. Non valable sur La Fabrique en ligne.",
+				"target": "not_sub"
+				},
+				{
+				"id": 2,
+				"lang": "fr",
+				"text": "<b>-50% sur le 2ème produit</b> de votre panier - <b>Code : GOGOGO</b>",
+				"conditions": "Offre réservée aux abonnées. Sans minimum d'achat. Valable uniquement jusqu'au 10/03/2020 sur birchbox.fr sur le produit le moins cher des 2. Non cumulable avec d'autres offres promotionnelles en cours, les points, le parrainage. La promotion s'appliquera en remplacement de votre Avantage Abonnée. Non valable sur les marques Point Rouge, les abonnements, les cartes cadeaux et les éditions limitées. Non valable sur La Fabrique en ligne.",
+				"target": "sub"
+				},
+				{
+				"id": 3,
+				"lang": "de",
+				"text": "<b> -20% auf der gesamten Website </b> ab 49 € Kaufpreis - <b> Code: TESTTEST </b>",
+				"conditions": "Angebot gültig ab 49 € Einkäufe bis 01.03.2020. Kann nicht mit anderen aktuellen Werbeangeboten, Punkten, Sponsoring kombiniert werden. Die Aktion gilt als Ersatz für Ihren abonnierten Vorteil. Nicht gültig für Point Rouge-Marken, Abonnements, Geschenkkarten und limitierte Editionen. Nicht gültig bei La Fabrique online.",
+				"target": "not_sub"
+				},
+				{
+				"id": 4,
+				"lang": "de",
+				"text": "<b> -50% auf das 2. Produkt </b> in Ihrem Warenkorb - <b> Code: GOGOGO </b>",
+				"conditions": "Angebot für Abonnenten reserviert. Ohne Mindestbestellmenge. Gültig nur bis zum 10.03.2020 auf birchbox.fr für das günstigste Produkt von 2. Nicht kombinierbar mit anderen aktuellen Werbeangeboten, Punkten, Sponsoring. Die Aktion gilt als Ersatz für Ihren abonnierten Vorteil. Nicht gültig für Point Rouge-Marken, Abonnements, Geschenkkarten und limitierte Editionen. Nicht gültig bei La Fabrique online.",
+				"target": "sub"
+				}
+			]
+		}
+	],
 	"header_push": [
-	{
+		{
 		"id": 1,
 		"lang": "fr",
 		"text": "<b>Livraison offerte</b> dès 25€ d'achats pour les Abonnées"
-	}
+		},
+		{
+		"id": 2,
+		"lang": "de",
+		"text": "<b>Kostenlose Lieferung</b> ab 25 € für Abonnenten"
+		}
+	],
+	"header_push_right": [
+		{
+		"id": 1,
+		"lang": "fr",
+		"text": "Activer une carte cadeau",
+		"link": "https://birchbox.fr/cadeau"
+		}
 	]
 }
