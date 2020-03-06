@@ -53,6 +53,12 @@
 		"lang": "fr",
 		"text": "Activer une carte cadeau",
 		"link": "https://birchbox.fr/cadeau"
+		},
+		{
+		"id": 2,
+		"lang": "de",
+		"text": "Aktivieren Sie eine Geschenkkarte",
+		"link": "https://birchbox.fr/cadeau"
 		}
 	]
 }
